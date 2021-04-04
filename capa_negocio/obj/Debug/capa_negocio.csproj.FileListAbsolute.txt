@@ -1,0 +1,51 @@
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+F:\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+F:\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+F:\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+F:\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+F:\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+F:\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+F:\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+E:\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+E:\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+E:\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+E:\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+E:\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+E:\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+E:\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+E:\Borrador\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+E:\Borrador\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+E:\Borrador\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+E:\Borrador\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+E:\Borrador\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+E:\Borrador\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+E:\Borrador\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+G:\Hotel\capa_negocio\bin\Debug\capa_negocio.dll
+G:\Hotel\capa_negocio\bin\Debug\capa_negocio.pdb
+G:\Hotel\capa_negocio\bin\Debug\capa_datos.dll
+G:\Hotel\capa_negocio\bin\Debug\capa_datos.pdb
+G:\Hotel\capa_negocio\obj\Debug\capa_negocio.csprojResolveAssemblyReference.cache
+G:\Hotel\capa_negocio\obj\Debug\capa_negocio.dll
+G:\Hotel\capa_negocio\obj\Debug\capa_negocio.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\bin\Debug\capa_negocio.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\bin\Debug\capa_negocio.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\bin\Debug\capa_datos.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\bin\Debug\capa_datos.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\obj\Debug\capa_negocio.csprojAssemblyReference.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\obj\Debug\capa_negocio.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_negocio\obj\Debug\capa_negocio.pdb

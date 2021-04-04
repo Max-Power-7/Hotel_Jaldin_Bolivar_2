@@ -1,0 +1,172 @@
+F:\Proyectos visual studio 2012\21-11-2018\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+C:\Users\Usuario\Desktop\Cosas por concluir\Universidad\Base de datos 2\Proyectos visual studio 2012\21-11-2018\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+F:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+F:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+F:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+F:\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+F:\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+F:\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+F:\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+E:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+E:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+E:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+E:\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+E:\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+E:\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+E:\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+E:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+E:\Borrador\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+E:\Borrador\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+F:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+J:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+J:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+J:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+J:\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+J:\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+J:\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+J:\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+J:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+G:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.exe
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.pdb
+G:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.exe
+G:\Hotel\capa_presentacion\bin\Debug\capa_presentacion.pdb
+G:\Hotel\capa_presentacion\bin\Debug\capa_datos.dll
+G:\Hotel\capa_presentacion\bin\Debug\capa_negocio.dll
+G:\Hotel\capa_presentacion\bin\Debug\capa_datos.pdb
+G:\Hotel\capa_presentacion\bin\Debug\capa_negocio.pdb
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csprojResolveAssemblyReference.cache
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+G:\Hotel\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.Cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_presentacion.exe.config
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_presentacion.exe
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_presentacion.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_datos.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_negocio.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_datos.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\bin\Debug\capa_negocio.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.csprojAssemblyReference.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.FrmPrincipal.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Cliente_Titular.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Detalle_habitacion.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Empleado.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Habitacion.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Nota_Hospedaje.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Reserva.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Empleado.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.frm_Tipo_Habitacion.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.Properties.Resources.resources
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.csproj.GenerateResource.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.csproj.CopyComplete
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.exe
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_presentacion\obj\Debug\capa_presentacion.pdb

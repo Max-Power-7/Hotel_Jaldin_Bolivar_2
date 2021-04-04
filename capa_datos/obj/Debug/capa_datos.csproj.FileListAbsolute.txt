@@ -1,0 +1,36 @@
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_datos\bin\Debug\capa_datos.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_datos\obj\Debug\capa_datos.dll
+C:\Users\Usuario\Documents\SQL Server Management Studio\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+F:\Hotel\capa_datos\bin\Debug\capa_datos.dll
+F:\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+F:\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+F:\Hotel\capa_datos\obj\Debug\capa_datos.dll
+F:\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+E:\Hotel\capa_datos\bin\Debug\capa_datos.dll
+E:\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+E:\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+E:\Hotel\capa_datos\obj\Debug\capa_datos.dll
+E:\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+E:\Borrador\Hotel\capa_datos\bin\Debug\capa_datos.dll
+E:\Borrador\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+E:\Borrador\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+E:\Borrador\Hotel\capa_datos\obj\Debug\capa_datos.dll
+E:\Borrador\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_datos\bin\Debug\capa_datos.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_datos\obj\Debug\capa_datos.dll
+D:\Documentos\Nueva carpeta\Proyecto Base de Datos\Nueva carpeta (2)\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+G:\Hotel\capa_datos\bin\Debug\capa_datos.dll
+G:\Hotel\capa_datos\bin\Debug\capa_datos.pdb
+G:\Hotel\capa_datos\obj\Debug\capa_datos.csprojResolveAssemblyReference.cache
+G:\Hotel\capa_datos\obj\Debug\capa_datos.dll
+G:\Hotel\capa_datos\obj\Debug\capa_datos.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\bin\Debug\capa_datos.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\bin\Debug\capa_datos.pdb
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\obj\Debug\capa_datos.csprojAssemblyReference.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\obj\Debug\capa_datos.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\obj\Debug\capa_datos.dll
+D:\Projects\Hotel\Hotel Proyecto Base de datos 2\capa_datos\obj\Debug\capa_datos.pdb
